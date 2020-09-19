@@ -9,3 +9,4 @@ module.exports = function fizzbuzz(n) {
     }
     return s === '' ? String(n) : s;
 }
+
